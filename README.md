@@ -1,14 +1,8 @@
-# A Blank PhoneGap App
+# Random-Picker App
 
 ## Usage
 
 ### PhoneGap CLI
 
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
+    $ phonegap create random-picker
 
